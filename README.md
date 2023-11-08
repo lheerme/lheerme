@@ -1,4 +1,4 @@
-![image](https://github.com/guifrangolino/guifrangolino/assets/86202540/7f1a8831-ba66-4d91-9606-4e5c39cac8d5)![image](https://github.com/guifrangolino/guifrangolino/assets/86202540/f864fd4f-401f-4100-a407-75ecd39fc0ac)<h1 align="center">Guilherme Souza</h1>
+<h1 align="center">Guilherme Souza</h1>
 
 ###
 
