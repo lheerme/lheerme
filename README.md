@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <a href="guilhermesouza.vercel.app" target="_blank">
+  <a href="https://guilhermesouza.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="35" alt="portfolio logo"  />
   </a>
   <a href="mailto:gsouza2651@gmail.com" target="_blank">
